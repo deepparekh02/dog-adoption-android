@@ -1,33 +1,24 @@
-Woof App
-==================================
+## Woof App ##
 
+**Table of Contents**  
+1) Description
+2) Screenshots
+3) Video Demo
+   
+**Description**   
 The Woof app is a list of dog photos with information about them including their name,
 age, and favorite activity. This app also uses Material Design to create a beautiful app
 experience for the user.
+  
+**Screenshots** 
 
-Introduction
-------------
+Portrait:    
+![portrait](https://github.com/deepparekh02/dog-adoption-android/assets/65657471/fee510da-1b83-4430-8787-d8fd69cdb013)
 
-This is the starter code for the Woof app project. This project is an opportunity for you to learn
-Material3 and reinforce the concepts you've learned so far in Android Basics
-with Compose.
+Landscape:    
+![landscape](https://github.com/deepparekh02/dog-adoption-android/assets/65657471/25dd4c04-e05f-46dc-be36-1a7e8ad6be90)
 
-Pre-requisites
---------------
+**Video Demo** 
 
--Rows/Columns
--Modifiers
--Scaffold
--Adding images
--Button click handlers
--Functions
--Classes
--Lists
--App architecture
+https://github.com/deepparekh02/dog-adoption-android/assets/65657471/d251e301-04be-464a-8d09-5d282a666a95
 
-Getting Started
----------------
-
-1. Download the project
-2. Open the project in Android Studio
-3. Run the project
